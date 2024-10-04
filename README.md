@@ -33,3 +33,5 @@ Bu projede, Pokémon kartlarını tanıtan bir web sitesi geliştirdim. Kullanı
 - **JavaScript İle Dinamik İçerik**: Butona her basıldığında sayfa üzerindeki kart dinamik olarak güncelleniyor. Yeni bir Pokémon verisi alınarak görsel ve istatistikler kart üzerinde gösteriliyor. JavaScript ile bu verilerin dinamik şekilde güncellenmesi sağlandı.
 
 Bu proje, temel olarak Pokémon hayranları için eğlenceli ve kullanışlı bir kart oluşturma deneyimi sunuyor. Hem tasarım hem de JavaScript işlevleri sayesinde kullanıcı dostu ve interaktif bir arayüz oluşturuldu.
+
+Projeyi Klonlayın: https://github.com/gokselkaradag/Pokemon.git
