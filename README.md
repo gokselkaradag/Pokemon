@@ -34,6 +34,8 @@ Bu projede, Pokémon kartlarını tanıtan bir web sitesi geliştirdim. Kullanı
 
 Bu proje, temel olarak Pokémon hayranları için eğlenceli ve kullanışlı bir kart oluşturma deneyimi sunuyor. Hem tasarım hem de JavaScript işlevleri sayesinde kullanıcı dostu ve interaktif bir arayüz oluşturuldu.
 
+Proje Linki; https://pokemon.gokselkaradag.com.tr
+
 
 
 https://github.com/user-attachments/assets/eb440e3a-0ec4-4702-88b9-688d8a756da8
